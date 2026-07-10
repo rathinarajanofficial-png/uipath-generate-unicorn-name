@@ -18,6 +18,8 @@ This is my first UiPath automation project built using UiPath Studio Web.
 - Get Text
 - Variables
 - Selectors
+## 📸 Workflow Screenshot
 
+![Workflow](workflow.png)
 ## Author
 **Rathina Rajan**
