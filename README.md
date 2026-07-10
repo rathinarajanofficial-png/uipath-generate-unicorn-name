@@ -1,12 +1,16 @@
 # Generate Unicorn Name - UiPath
 
 ## Description
-This is my first UiPath automation project.
+This is my first UiPath automation project built using UiPath Studio Web.
 
-The automation interacts with a website and generates a unicorn name using UiPath.
+## What It Does
+- Opens the Unicorn Name Generator website.
+- Clicks the **Generate** button.
+- Extracts the generated unicorn name.
+- Displays the generated name.
 
-## Technologies
-- UiPath Studio
+## Technologies Used
+- UiPath Studio Web
 - UI Automation
 
 ## Activities Used
@@ -15,5 +19,5 @@ The automation interacts with a website and generates a unicorn name using UiPat
 - Variables
 - Selectors
 
-## Learning Outcome
-This project helped me understand the basics of UiPath automation and UI interaction.
+## Author
+**Rathina Rajan**
